@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.da079710.chunk.css",
+    "main.js": "/static/js/main.f90cbc43.chunk.js",
+    "main.js.map": "/static/js/main.f90cbc43.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/css/2.e4346227.chunk.css": "/static/css/2.e4346227.chunk.css",
+    "static/js/2.a1b12462.chunk.js": "/static/js/2.a1b12462.chunk.js",
+    "static/js/2.a1b12462.chunk.js.map": "/static/js/2.a1b12462.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a3cc1e1a2cb821a3c7adbda9fba622af.js": "/precache-manifest.a3cc1e1a2cb821a3c7adbda9fba622af.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.da079710.chunk.css.map": "/static/css/main.da079710.chunk.css.map",
+    "static/js/2.a1b12462.chunk.js.LICENSE.txt": "/static/js/2.a1b12462.chunk.js.LICENSE.txt",
+    "static/media/contact-keeper.png": "/static/media/contact-keeper.f7303d66.png",
+    "static/media/github-finder.png": "/static/media/github-finder.71f35d47.png",
+    "static/media/it-logger.png": "/static/media/it-logger.9dab37da.png",
+    "static/media/profile.jpeg": "/static/media/profile.199d57e0.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/css/2.e4346227.chunk.css",
+    "static/js/2.a1b12462.chunk.js",
+    "static/css/main.da079710.chunk.css",
+    "static/js/main.f90cbc43.chunk.js"
+  ]
+}
